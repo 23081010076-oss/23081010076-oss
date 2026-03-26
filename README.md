@@ -9,37 +9,44 @@
  ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
 ```
 
-**FULL STACK WEB DEVELOPER · NETWORK ENTHUSIAST · INDONESIA**
+**MOH. MISBAHUL MUSTHOFAH · FULL STACK DEV · BERAWAN, INDONESIA**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Laravel+Backend+Developer;React+%26+Express+Enthusiast;Golang+Explorer;Network+%26+Infra+Curious)
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=520&lines=Laravel+Backend+Developer;React+%26+Express+Enthusiast;Golang+Explorer;Network+%26+Infra+Curious;98%25+of+my+activity+is+commits+%F0%9F%98%84)
 
 </div>
 
 ---
 
-## whoami
+## `> whoami`
 
 ```yaml
 name:     "Moh. Misbahul Musthofah"
+username: "23081010076-oss"
 location: "Berawan, Indonesia 🇮🇩"
 role:     "Full Stack Web Developer"
 stack:    [ Laravel, React, Express, Golang ]
 extra:    [ Networking, Linux, Server Config ]
-currently: "Exploring Golang microservices"
-fun_fact:  "98% of my activity is commits 😄"
+fun_fact: "98% of my activity is commits 😄"
 ```
 
 ---
 
-## stats
+## `> stats`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=23081010076-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=23081010076-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23081010076-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23081010076-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=23081010076-oss&theme=tokyonight&hide_border=true)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=23081010076-oss&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -55,7 +62,7 @@ fun_fact:  "98% of my activity is commits 😄"
 
 ---
 
-## tech stack
+## `> tech_stack`
 
 **Backend**
 ```
@@ -79,19 +86,19 @@ Linux · Nginx · Docker · Firewall / Routing
 
 ---
 
-## proficiency
+## `> proficiency`
 
 ```
 PHP & Laravel      ████████████████████░░   90%
 React & JavaScript ████████████████░░░░░░   80%
 Node.js & Express  ███████████████░░░░░░░   75%
-Golang             ██████████░░░░░░░░░░░░   50%
 Networking         ████████████░░░░░░░░░░   60%
+Golang             ██████████░░░░░░░░░░░░   50%
 ```
 
 ---
 
-## architecture flow
+## `> architecture`
 
 ```
 CLIENT   ──►  React / JavaScript  ──►  REST API
@@ -102,26 +109,42 @@ INFRA    ──►  Linux + Nginx + Network Config
 
 ---
 
-## currently exploring
+## `> currently_exploring`
 
-- **Golang** — microservices & high-performance APIs
-- **Docker** — containerizing Laravel and Go applications  
-- **Network Security** — firewall rules, routing & subnetting
+- **Golang** — microservices & high-performance APIs, goroutines & concurrency
+- **Docker** — containerizing Laravel and Go applications
+- **Network Security** — firewall rules, routing protocols & subnetting
 
 ---
 
-## connect
+## `> trophies`
 
-[![GitHub](https://img.shields.io/badge/github-23081010076--oss-181717?style=flat-square&logo=github)](https://github.com/23081010076-oss)
-[![LinkedIn](https://img.shields.io/badge/linkedin-misbahul-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/misbahul)
-[![Email](https://img.shields.io/badge/email-your@email.com-EA4335?style=flat-square&logo=gmail)](mailto:your@email.com)
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=23081010076-oss&theme=tokyonight&no-frame=true&column=4&margin-w=8)
+
+</div>
+
+---
+
+## `> connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/github-23081010076--oss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23081010076-oss)
+[![LinkedIn](https://img.shields.io/badge/linkedin-misbahul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/misbahul)
+[![Email](https://img.shields.io/badge/email-your@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=23081010076-oss&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
 <div align="center">
 
-*"clean code · clean architecture · clean network"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=23081010076-oss&color=00d4ff&style=flat-square)
+*`"clean code · clean architecture · clean network"`*
 
 </div>
